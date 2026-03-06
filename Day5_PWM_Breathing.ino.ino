@@ -1,0 +1,11 @@
+// Day5 项目：PWM呼吸灯
+
+const int ledPin = 13;
+
+void setup(){
+  pinMode(ledPin,OUTPUT);
+}
+
+void loop(){
+
+}
