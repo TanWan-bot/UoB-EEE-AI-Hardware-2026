@@ -1,6 +1,7 @@
 #include <Stepper.h>
 
 const int stepsPerRevolution = 2048;
+
 Stepper myStepper(stepsPerRevolution, 8, 10, 9, 11);
 
 const int buttonPin = 2;
